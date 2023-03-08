@@ -1,0 +1,844 @@
+{
+  "cats": [
+    {
+      "name": "biddy ",
+      "image": "https://plus.unsplash.com/premium_photo-1661508614319-b5e40d1143bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "click": "3211111",
+      "desc": "The cat is a domestic wild cat",
+      "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ],
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "boots",
+      "desc": "The cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members ",
+      "image": "https://plus.unsplash.com/premium_photo-1661508614319-b5e40d1143bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "click": 51,
+      "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kiddos",
+      "desc": "The cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members ",
+      "image": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "click": 46,
+      "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Loona",
+      "desc": "The cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members ",
+      "image": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "click": 17,
+     "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ]
+    },
+    {
+      "name": "Chinni",
+      "desc": "The cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members ",
+      "image": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "click": 63,
+      "id": 5,
+     "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ]
+    },
+    {
+      "name": "Ricky",
+      "desc": "The cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members ",
+      "image": "https://plus.unsplash.com/premium_photo-1661508614319-b5e40d1143bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "click": 26,
+      "id": 6,
+     "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ]
+    },
+    {
+      "name": "tigi",
+      "desc": "The cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members ",
+      "image": "https://images.unsplash.com/photo-1596854407944-bf87f6fdd49e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "click": 56,
+      "id": 7,
+     "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ]
+    },
+    {
+      "name": "Loona2",
+      "desc": "The cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members ",
+      "image": "https://images.unsplash.com/photo-1596854407944-bf87f6fdd49e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "click": 61,
+      "id": 8,
+     "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ]
+    },
+    {
+      "name": "Mini",
+      "image": "https://www.pumpkin.care/wp-content/uploads/2021/05/Cat-DNA-1-1200x628.jpg",
+      "desc": "The cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members ",
+      "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ],
+      "id": 9,
+      "click": 25
+    },
+    {
+      "name": "hifg",
+      "click": 3,
+      "image": "https://www.pumpkin.care/wp-content/uploads/2021/05/Cat-DNA-1-1200x628.jpg",
+      "desc": "description descriptio n descriptiondesc riptiondesc ription description description ",
+      "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "hifg 12",
+      "click": 10,
+      "image": "https://www.pumpkin.care/wp-content/uploads/2021/05/Cat-DNA-1-1200x628.jpg",
+      "desc": "description descriptio n descriptiondesc riptiondesc ription description description ",
+      "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "hifg 10",
+      "click": 10,
+      "image": "https://www.pumpkin.care/wp-content/uploads/2021/05/Cat-DNA-1-1200x628.jpg",
+      "desc": "description descriptio n descriptiondesc riptiondesc ription description description ",
+      "skills": [
+        {
+         "skillName": "Agility and Coordination",
+          "skill2019": 64,
+          "skill2024": 71
+        },
+        {
+         "skillName": "Hunting and Predatory Skills",
+          "skill2019": 76,
+          "skill2024": 70
+        },
+        {
+         "skillName": "Communication",
+          "skill2019": 60,
+          "skill2024": 75
+        },
+        {
+         "skillName": "Adaptability",
+          "skill2019": 82,
+          "skill2024": 83
+        },
+        
+        {
+         "skillName": "Independence",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Affection and Socialization",
+          "skill2019": 70,
+          "skill2024": 84
+        },
+        {
+         "skillName": "Climbing",
+          "skill2019": 90,
+          "skill2024": 95
+        },
+        {
+         "skillName": "Balance",
+          "skill2019": 88,
+          "skill2024": 96
+        },
+        {
+         "skillName": "Senses",
+          "skill2019": 86,
+          "skill2024": 90
+        },
+        {
+         "skillName": "Flexibility",
+          "skill2019": 75,
+          "skill2024": 83
+        },
+        {
+         "skillName": "Problem-solving",
+          "skill2019": 67,
+          "skill2024": 78
+        },
+        {
+         "skillName": "Stealth",
+          "skill2019": 59,
+          "skill2024": 72
+        }
+      ],
+      "id": 12
+    }
+  ]
+}
